@@ -32,7 +32,6 @@ vignettes/*.pdf
 *.utf8.md
 *.knit.md
 
-data
-rfiles
-metis
+*.pkl
+*.rds
 *.txt
